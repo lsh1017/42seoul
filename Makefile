@@ -6,7 +6,7 @@
 #    By: sanghlee <sanghlee@student.42seoul.kr>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/02/20 03:19:46 by sanghlee          #+#    #+#              #
-#    Updated: 2021/02/20 07:13:41 by sanghlee         ###   ########.fr        #
+#    Updated: 2021/02/23 19:19:02 by sanghlee         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 NAME = libft.a
